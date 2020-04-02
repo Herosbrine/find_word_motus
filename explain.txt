@@ -1,0 +1,2 @@
+gcc find_word.c
+./a.out
